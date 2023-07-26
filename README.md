@@ -7,7 +7,8 @@
 [![Telegram](https://img.shields.io/badge/Chat-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/akaprachanda)
 
 
-Buy License Key for Only 10$.
+Buy License Key for Only 10$. 
+<br>
 [+] Disclaimer :
 
 This tool is for educational purposes only. I am not responsible if you missue it
