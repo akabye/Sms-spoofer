@@ -26,8 +26,10 @@
 <body>
 <?php echo $alert; ?>
 <div class="centerall">
-        <a href="https://t.me/akadhakal"><h3 style=" font-weight: bold;
+        For complete files contact me via telegram<a href="https://t.me/akaprachanda"><h3 style=" font-weight: bold;
+                                             
 color: green;">BUY LICENSE</h3></a>
+ 
  <img src="favicon.ico" alt="Logo" class="center"> 
     <h3>SMS SPOOFER</h3>
     
