@@ -57,7 +57,7 @@ print("")
 
 myobj = {
     'license': (None, license),
-    'from': (None, sender),
+    'from': (None, name),
     'recipient': (None, recipient),
     'message': (None, message),
     'submit': (None, "submit"),
