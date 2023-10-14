@@ -11,7 +11,7 @@ from os import system
 
 url = "https://citialerts.in/spoof/sendsms.php"
 try:
-	request = requests.get("", timeout=3)
+	request = requests.get(url, timeout=3)
 except (requests.ConnectionError, requests.Timeout) as exception:
     print("[!] Oops, It looks like you have no Internet [!]")
     sys.exit()
