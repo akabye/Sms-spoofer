@@ -19,7 +19,7 @@ SMS Spoofer Tool for Spoofing sender ID. 100% Inbox Rate with orginal ID.<br>
 
 ## [+] Follow Me :
 
-[![Telegram](https://img.shields.io/badge/Chat-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/akaprachanda)
+[![Telegram](https://img.shields.io/badge/Chat-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/akabye)
 
 <p>SMS spoofing is a technology which uses the short message service (SMS), available on most mobile phones and personal digital assistants, to set who the message appears to come from by replacing the originating mobile number (Sender ID) with alphanumeric text. Spoofing has both legitimate uses (setting the company name from which the message is being sent, setting your own mobile number, or a product name) and illegitimate uses (such as impersonating another person, company, product). This can also send "mysterious" messages that look like they are from legitimate numbers or contacts.  </p>
 
